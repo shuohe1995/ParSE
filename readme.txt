@@ -1,4 +1,4 @@
-The code of "Partial-label Learning with Semantic Label Representations"
+The code of "Partial-label Learning with Semantic Label Representations, shuo he et al. KDD22"
 
 requires:
 python3.9
@@ -22,5 +22,7 @@ python train.py -dataset cifar100 -partial_rate 0.01 -loss_weight 0.01 -n_map 2 
 python train.py -dataset cifar100-H -partial_rate 0.1 -loss_weight 0.05 -n_map 3 -sigma 0.1 -n_class 100
 
 python train.py -dataset cub -partial_rate 0.01 -loss_weight 0.01 -n_map 3 -sigma 0.15 -n_class 200
+
+
 
 
