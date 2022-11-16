@@ -9,7 +9,7 @@ python-transformers
 dataset_dir:
 ../datasets/
 
-parametewr:
+parameters:
                                 cifar10   cifar100 cifar100-H   cub200
 beta:                              1        0.01      0.05       0.01
 sigma:                            0.1       0.1       0.1        0.15
