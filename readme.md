@@ -1,4 +1,4 @@
-The code of "Partial-label Learning with Semantic Label Representations, shuo he et al. KDD22"
+Code of "Partial-label Learning with Semantic Label Representations" KDD2022.
 
 requires:
 python3.9
